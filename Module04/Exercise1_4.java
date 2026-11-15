@@ -1,6 +1,6 @@
 public class PracticeExercise1 {
     public static void main(String[] args) {
-        String name = "Aryan";
+        String name = "Akshat prakhar";
         int age = 17;
         String subject = "Computer Science";
 
